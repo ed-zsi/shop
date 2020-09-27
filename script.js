@@ -12,7 +12,7 @@ window.onload = function () {
     const minsEl = document.getElementById("mins");
     const secondsEl = document.getElementById("seconds");
 
-    const opening = "20 Jan 2050";
+    const opening = "20 Jan 2150";
 
     function countdown() {
         const openingDate = new Date(opening);
